@@ -1,0 +1,291 @@
+body {
+    font-family: Arial, 'Lucida Sans', sans-serif;
+    text-align: center;
+    background-image: ;
+}
+
+.faixa_superior {
+    height: .7em;
+    width: 100%;
+    background-color: #FF4500;
+
+}
+
+.logo {
+    padding-top: 1.5em;
+}
+
+nav {
+    margin-top: 2em;
+    padding-top: .8em;
+    height: 1.8em;
+    width: 100%;
+    background-color: #8B4513;
+}
+
+ul {
+    display: inline-flex;
+}
+
+li {
+    padding: 0 1em 0 1em;
+}
+
+ul a {
+    text-decoration: none;
+    color: white;
+}
+
+ul a:hover {
+    color: orange;
+
+}
+
+
+/* Pagina Home */
+
+h1 {
+    padding-top: 1.5em;
+    font-size: 1.5em;
+    font-weight: bold;
+    color: orangered;
+}
+
+.card {
+    display: inline-block;
+    padding-top: 2em;
+    padding-left: 2em;
+}
+
+.foto_produto {
+    width: 18em;
+    height: 12em;
+}
+
+.nome_produto {
+    font-size: 1.2em;
+    font-weight: bold;
+    color: orangered ;
+}
+
+.detalhe {
+    font-size: .7em;
+    color: gray;
+}
+
+/* Abrir descrição dos produtos */
+
+.foto_descricao {
+    width: 26em;
+    height: 17em;
+}
+
+.tabela_descricao {
+    width: 75%;
+    display: inline-block;
+}
+
+
+.tabela_descricao tr td {
+    text-align: left;
+    vertical-align: top;
+}
+
+.nome_descricao {
+    font-size: 2.5em;
+    font-weight: bold;
+    color:brown;
+    text-align: center;
+    padding-top: 1em;
+
+}
+
+.descricao_descricao {
+    padding-top: 2em;
+    font-size: 1.2em;
+}
+
+.ingredientes_descricao {
+    padding-top: 2em;
+    font-size: 1em;
+
+}
+
+
+
+/* Pagina Quem Somos */
+
+.quem_somos {
+    display: inline-block;
+    margin-top: 1.2em;
+    width: 70%;
+    text-align: center;
+    font-size: 1.3em;
+}
+
+figure {
+    margin: 2em;
+    font-size: 1em;
+}
+
+.cozinha {
+    width: 20em;
+}
+
+.cozinha_hoje {
+    width: 30em;
+}
+
+
+/* Pagina Localização */
+
+.localizacao {
+    margin-top: 2em;
+    font-size: 1.3em;
+}
+
+iframe {
+    padding-top: 2.5em;
+}
+
+
+/* Pagina Contato */
+
+.contato{
+    font-size: 1.3em;
+    margin-top: 1.5em;
+    width: 60%;
+    text-align: center;
+    display: inline-block;
+}
+
+label {
+    font-size: 1em;
+    font-weight: bold;
+}
+
+form {
+    display: inline-block;
+    border: dashed orange 0.1em;
+    padding: 1em;
+    margin: 2em;
+    text-align: left;
+    width: 40%;
+}
+
+.nome_email {
+    width: 98%;
+    height: 2em;
+    font-size: 0.9em;
+    margin-top: 0.3em;
+    border: solid .2em;
+    border-color: gainsboro;
+}
+
+.data {
+    width: 40%;
+    font-size: 1.2em;
+    margin-top: 0.3em;
+    border: solid .2em;
+    border-color: gainsboro;
+}
+
+.genero {
+    width: 5%;
+    margin-top: 0.3em;
+}
+
+.qual {
+    width: 70%;
+    height: 1em;
+    font-size: 0.9em;
+    border: solid .2em;
+    border-color: gainsboro;
+}
+
+select {
+    margin-top: 0.3em;
+    width: 40%;
+    font-style: italic;
+    height: 2em; 
+    border: solid .2em;
+    border-color: gainsboro;
+}
+
+.assunto {
+    font-size: 1.3em;
+}
+
+.selecionar {
+    font-style: italic;
+    font-size: 1.3em;
+    color: grey;
+}
+
+textarea {
+    width: 98%;
+    height: 10em;
+    font-size: 1.1em;
+    margin-top: 0.3em;
+    border: solid .2em;
+    border-color: gainsboro;
+}
+
+button {
+    width: 30%;
+    height: 1.8em;
+    border-radius: .5em;
+    border: none;
+    color: white;
+    font-size: 1em;
+    background-color:#8B4513;
+
+}
+
+
+
+/* Rodapé */
+
+footer {
+    width: 100%;
+    background-color: orangered;
+    padding: 2em 0 2em 0;
+    margin-top: 3em;
+    font-size: 1em;
+}
+
+.samuel {
+    font-size: 1.5em;
+    margin-bottom: 1em;
+    color: white;
+}
+
+footer table {
+    background-color: white;
+    display: inline-flex;
+    text-align: center;
+    color: black;
+    padding: 1em;
+    border-radius: .8em;
+}
+
+.aluno {
+    height: 1.5em;
+    padding-right: 1em;
+    text-align: right;
+    vertical-align: top;  
+}
+
+.dados_aluno {
+    text-align: left;
+    font-size: 1em;
+}
+
+.data {
+    display: inline-block;
+    font-size: .8em;
+    padding-top: 1em;
+    text-align: center;
+    border: none;
+    color: white;   
+}
