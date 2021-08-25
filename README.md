@@ -12,6 +12,6 @@
 #sami.eu@gmail.com
 #github.com/samuelflongo
 #linkedin.com/in/samuelflongo
-[GitHub language count](https://img.shields.io/github/languages/count/samuelflongo/21151275-5_SamuelFeniliLongo) ![GitHub top language](https://img.shields.io/github/languages/top/samuelflongo/21151275-5_SamuelFeniliLongo)
+![GitHub language count](https://img.shields.io/github/languages/count/samuelflongo/21151275-5_SamuelFeniliLongo) ![GitHub top language](https://img.shields.io/github/languages/top/samuelflongo/21151275-5_SamuelFeniliLongo)
 
 
