@@ -36,8 +36,12 @@
                                     </td>
 
                                     <td>
-                                        <p class="descricao_descricao">Origem<br> <?=$value["descricao"];?></p>
-                                        <p class="ingredientes_descricao">Ingredientes<br> <?=$value["ingredientes"];?></p>
+                                        <p class="descricao_descricao">Origem</br> <?=$value["descricao"];?></p>
+                                        <p class="ingredientes_descricao">Ingredientes</br> <?=$value["ingredientes"];?></p>
+                                        <p class="preco">Preço<br> <?=$value["preco"];?></br></p>
+                                        <p class="botao_voltar"><a href="index.php?pagina=pages/home.php">voltar</a></p>
+
+
                                     </td>
 
                                 </tr>
