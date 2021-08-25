@@ -107,11 +107,25 @@ h1 {
 
 .ingredientes_descricao {
     padding-top: 2em;
-    font-size: 1em;
+    font-size: 1.1em;
 
 }
 
+.preco {
+    padding-top: 2em;
+    font-size: 1.1em;
+}
 
+.botao_voltar {
+    padding-top: 2em;
+    font-size: 1em;
+    text-align: right;
+}
+
+.botao_voltar a  {
+    text-decoration: none;
+    color: #8B4513;
+}
 
 /* Pagina Quem Somos */
 
