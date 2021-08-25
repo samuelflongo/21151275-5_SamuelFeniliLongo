@@ -7,11 +7,11 @@
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/home.jpg" />
 </h1>
 
-#Projeto criado para a atividade final da disciplina de Programação Back_End I, do Curso de Sistemas para Internet, da Unicesumar.
+!#Projeto criado para a atividade final da disciplina de Programação Back_End I, do Curso de Sistemas para Internet, da Unicesumar.
 
-##Samuel Fenili Longo
-#RA 21151275-5
-#sami.eu@gmail.com
-#github.com/samuelflongo
-#linkedin.com/in/samuelflongo
+!##Samuel Fenili Longo
+!#RA 21151275-5
+!#sami.eu@gmail.com
+!#github.com/samuelflongo
+!#linkedin.com/in/samuelflongo
 
